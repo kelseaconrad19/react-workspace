@@ -1,0 +1,4 @@
+What is React?
+
+-- Kind of like OOP for web development
+-- Components - basically like making your own HTML elements.
